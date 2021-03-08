@@ -1,5 +1,5 @@
 # Time-series-labs
-Lab1 : Autoregressive models
+Lab1 : Autoregressive models/n
 In this lab we builded autoregressive models for a data set corresponding to the Global Mean Sea Level (GMSL) over the past few decades. 
 
 Lab2 ：Structural model, Kalman filtering and EM
